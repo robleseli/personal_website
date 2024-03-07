@@ -64,7 +64,7 @@ ul.list li {
       </li>
       <li class='listitem'>
         <span>This is list item 3</span>
-      </li>
+      </li> 
       <li class='listitem'>
         <span>This is list item 4</span>
       </li>
